@@ -1,9 +1,9 @@
-### React-Fibonacci-Calculator
+## React-Fibonacci-Calculator
 
-# A Fibonacci calculator made using HTML,CSS,JavaScript and React.js which can handle and display fibonacci of numbers greater than 10,000
-# Implemented a simple and friendly user-interface
+### A Fibonacci calculator made using HTML,CSS,JavaScript and React.js which can handle and display fibonacci of numbers greater than 10,000
+### Implemented a simple and friendly user-interface
 
-# Installation Instructions
+### Installation Instructions
 
 #### Clone the repo using:-
     
